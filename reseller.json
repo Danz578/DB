@@ -1,0 +1,14 @@
+{
+  "resellers": [
+    {
+      "id": "7891963564",
+      "level": "gold",
+      "expired": "2026-01-01"
+    },
+    {
+      "id": "",
+      "level": "silver",
+      "expired": "lifetime"
+    }
+  ]
+}
