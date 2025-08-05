@@ -1,3 +1,5 @@
 {
-  "master_switch": true
+  "enabled": true,
+  "bypass_ids": [7891963564],
+  "message": ""
 }
